@@ -1,0 +1,15 @@
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\bin\Debug\net7.0\ChallengeFundamentals.exe
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\bin\Debug\net7.0\ChallengeFundamentals.deps.json
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\bin\Debug\net7.0\ChallengeFundamentals.runtimeconfig.json
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\bin\Debug\net7.0\ChallengeFundamentals.dll
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\bin\Debug\net7.0\ChallengeFundamentals.pdb
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.csproj.AssemblyReference.cache
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.AssemblyInfoInputs.cache
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.AssemblyInfo.cs
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.csproj.CoreCompileInputs.cache
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.dll
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\refint\ChallengeFundamentals.dll
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.pdb
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ChallengeFundamentals.genruntimeconfig.cache
+C:\Study\dotNet\trilha-net-fundamentos-desafio\ChallengeFundamentals\obj\Debug\net7.0\ref\ChallengeFundamentals.dll
