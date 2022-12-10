@@ -10,7 +10,7 @@ namespace DesafioFundamentos.Models
         private decimal initialPrice = 0;
         private decimal pricePerHour = 0;
         private decimal totalValue = 0;
-        private String licensePlate;
+        private string licensePlate;
         private int hours = 0;
 
         private List<string> vehicles = new List<string>();
@@ -59,7 +59,7 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Veículos: ");
 
                 int contForeach = 1;
-                foreach (String vehicle in vehicles)
+                foreach (string vehicle in vehicles)
                 {
                     Console.WriteLine($"{contForeach}° Veiculo - {vehicle}");
                     contForeach++;
